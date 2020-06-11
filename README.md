@@ -3,7 +3,7 @@
 This is a basic introductory ReactJS application. (JavaScript, ReactJS, Babel and Axios). 
 
 This app allows the user to add a github profile details as a card based on username.
-[![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)]
+[![GitHub Cards ReactJS App](https://raw.githubusercontent.com/rakeshkumbhashi/github-cards/c8abbe299b5153665460581632e2e7347cbb66ea/AppSnapshot.png)]
 
 This app gives an introduction on below concepts of ReactJS:
 1. ReactJS DOM and rendering
